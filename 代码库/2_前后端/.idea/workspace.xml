@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d4c9804-3718-4435-901c-acd490d7fd9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="E:/线路特征项目_2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="E:/线路特征项目_2/train_line_feature_and_event/knn_model.py" afterDir="false" />
-      <change afterPath="E:/线路特征项目_2/train_line_second/test111_np.py" afterDir="false" />
-      <change afterPath="E:/线路特征项目_2/train_line_second/test_neo.py" afterDir="false" />
-      <change afterPath="E:/线路特征项目_2/train_line_second/train_mileage_accumulation_by_trainsite_3.py" afterDir="false" />
-      <change afterPath="E:/线路特征项目_2/train_line_second/train_mileage_accumulation_by_trainsite_local_3.py" afterDir="false" />
-      <change beforePath="E:/dataReport-master.zip" beforeDir="false" />
-      <change beforePath="E:/python_data_analysis_and_mining_action-master.zip" beforeDir="false" />
-      <change beforePath="E:/【批量下载】python数据分析总结等.zip" beforeDir="false" />
-    </list>
+    <list default="true" id="8d4c9804-3718-4435-901c-acd490d7fd9e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="420">
+              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -91,8 +76,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="132" />
-    <option name="y" value="123" />
+    <option name="x" value="456" />
+    <option name="y" value="313" />
     <option name="width" value="1653" />
     <option name="height" value="1009" />
   </component>
@@ -124,7 +109,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
@@ -180,15 +165,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579311435249</updated>
-      <workItem from="1579311436402" duration="6861000" />
+      <workItem from="1579311436402" duration="8201000" />
     </task>
+    <task id="LOCAL-00001" summary="aaaa">
+      <created>1579329261051</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579329261051</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6861000" />
+    <option name="totallyTimeSpent" value="8201000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="491" y="72" width="1322" height="807" extended-state="0" />
+    <frame x="365" y="251" width="1322" height="807" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -217,6 +210,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aaaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aaaa" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2_$run.coverage" NAME="run Coverage Results" MODIFIED="1579311946228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
@@ -248,8 +245,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="420">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
